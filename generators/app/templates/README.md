@@ -20,7 +20,7 @@
 [![Star on GitHub][github-star-badge]][github-star]
 [![Tweet][twitter-badge]][twitter]
 
-<a href="https://app.codesponsor.io/link/PKGFLnhDiFvsUA5P4kAXfiPs/kentcdodds/<%= moduleName %>" rel="nofollow"><img src="https://app.codesponsor.io/embed/PKGFLnhDiFvsUA5P4kAXfiPs/kentcdodds/<%= moduleName %>.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
+<a href="https://app.codesponsor.io/link/PKGFLnhDiFvsUA5P4kAXfiPs/danseethaler/<%= moduleName %>" rel="nofollow"><img src="https://app.codesponsor.io/embed/PKGFLnhDiFvsUA5P4kAXfiPs/danseethaler/<%= moduleName %>.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
 
 ## The problem
 
@@ -76,7 +76,7 @@ here!
 Thanks goes to these people ([emoji key][emojis]):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-| [<img src="https://avatars.githubusercontent.com/u/1500684?v=3" width="100px;"/><br /><sub>Kent C. Dodds</sub>](https://kentcdodds.com)<br />[💻](https://github.com/kentcdodds/<%= moduleName %>/commits?author=kentcdodds) [📖](https://github.com/kentcdodds/<%= moduleName %>/commits?author=kentcdodds) 🚇 [⚠️](https://github.com/kentcdodds/<%= moduleName %>/commits?author=kentcdodds) |
+| [<img src="https://avatars.githubusercontent.com/u/1500684?v=3" width="100px;"/><br /><sub>Dan Seethaler</sub>](https://danseethaler.com)<br />[💻](https://github.com/danseethaler/<%= moduleName %>/commits?author=danseethaler) [📖](https://github.com/danseethaler/<%= moduleName %>/commits?author=danseethaler) 🚇 [⚠️](https://github.com/danseethaler/<%= moduleName %>/commits?author=danseethaler) |
 | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
@@ -89,26 +89,26 @@ MIT
 
 [npm]: https://www.npmjs.com/
 [node]: https://nodejs.org
-[build-badge]: https://img.shields.io/travis/kentcdodds/<%= moduleName %>.svg?style=flat-square
-[build]: https://travis-ci.org/kentcdodds/<%= moduleName %>
-[coverage-badge]: https://img.shields.io/codecov/c/github/kentcdodds/<%= moduleName %>.svg?style=flat-square
-[coverage]: https://codecov.io/github/kentcdodds/<%= moduleName %>
+[build-badge]: https://img.shields.io/travis/danseethaler/<%= moduleName %>.svg?style=flat-square
+[build]: https://travis-ci.org/danseethaler/<%= moduleName %>
+[coverage-badge]: https://img.shields.io/codecov/c/github/danseethaler/<%= moduleName %>.svg?style=flat-square
+[coverage]: https://codecov.io/github/danseethaler/<%= moduleName %>
 [version-badge]: https://img.shields.io/npm/v/<%= moduleName %>.svg?style=flat-square
 [package]: https://www.npmjs.com/package/<%= moduleName %>
 [downloads-badge]: https://img.shields.io/npm/dm/<%= moduleName %>.svg?style=flat-square
 [npmtrends]: http://www.npmtrends.com/<%= moduleName %>
 [license-badge]: https://img.shields.io/npm/l/<%= moduleName %>.svg?style=flat-square
-[license]: https://github.com/kentcdodds/<%= moduleName %>/blob/master/LICENSE
+[license]: https://github.com/danseethaler/<%= moduleName %>/blob/master/LICENSE
 [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
 [prs]: http://makeapullrequest.com
 [donate-badge]: https://img.shields.io/badge/$-support-green.svg?style=flat-square
 [coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
-[coc]: https://github.com/kentcdodds/<%= moduleName %>/blob/master/other/CODE_OF_CONDUCT.md
-[github-watch-badge]: https://img.shields.io/github/watchers/kentcdodds/<%= moduleName %>.svg?style=social
-[github-watch]: https://github.com/kentcdodds/<%= moduleName %>/watchers
-[github-star-badge]: https://img.shields.io/github/stars/kentcdodds/<%= moduleName %>.svg?style=social
-[github-star]: https://github.com/kentcdodds/<%= moduleName %>/stargazers
-[twitter]: https://twitter.com/intent/tweet?text=Check%20out%20<%= moduleName %>%20by%20%40kentcdodds%20https%3A%2F%2Fgithub.com%2Fkentcdodds%2F<%= moduleName %>%20%F0%9F%91%8D
-[twitter-badge]: https://img.shields.io/twitter/url/https/github.com/kentcdodds/<%= moduleName %>.svg?style=social
-[emojis]: https://github.com/kentcdodds/all-contributors#emoji-key
-[all-contributors]: https://github.com/kentcdodds/all-contributors
+[coc]: https://github.com/danseethaler/<%= moduleName %>/blob/master/other/CODE_OF_CONDUCT.md
+[github-watch-badge]: https://img.shields.io/github/watchers/danseethaler/<%= moduleName %>.svg?style=social
+[github-watch]: https://github.com/danseethaler/<%= moduleName %>/watchers
+[github-star-badge]: https://img.shields.io/github/stars/danseethaler/<%= moduleName %>.svg?style=social
+[github-star]: https://github.com/danseethaler/<%= moduleName %>/stargazers
+[twitter]: https://twitter.com/intent/tweet?text=Check%20out%20<%= moduleName %>%20by%20%40danseethaler%20https%3A%2F%2Fgithub.com%2Fdanseethaler%2F<%= moduleName %>%20%F0%9F%91%8D
+[twitter-badge]: https://img.shields.io/twitter/url/https/github.com/danseethaler/<%= moduleName %>.svg?style=social
+[emojis]: https://github.com/danseethaler/all-contributors#emoji-key
+[all-contributors]: https://github.com/danseethaler/all-contributors

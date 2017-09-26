@@ -1,5 +1,5 @@
 {
-  "name": "generator-kcd-oss",
+  "name": "generator-danseethaler-oss",
   "version": "0.0.0-semantically-released",
   "description":
     "A generator for my projects. Feel free to contribute if you want to adapt it for more use cases",
@@ -10,8 +10,8 @@
     "precommit": "kcd-scripts precommit"
   },
   "files": ["generators"],
-  "keywords": ["open source", "kentcdodds", "yeoman-generator"],
-  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "keywords": ["open source", "danseethaler", "yeoman-generator"],
+  "author": "Dan Seethaler <dan@seethalers.com> (http://danseethaler.com/)",
   "license": "MIT",
   "dependencies": {
     "lodash.kebabcase": "^4.1.1",
@@ -28,10 +28,10 @@
   "preferGlobal": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/kentcdodds/generator-kcd-oss.git"
+    "url": "https://github.com/danseethaler/generator-danseethaler-oss.git"
   },
   "bugs": {
-    "url": "https://github.com/kentcdodds/generator-kcd-oss/issues"
+    "url": "https://github.com/danseethaler/generator-danseethaler-oss/issues"
   },
-  "homepage": "https://github.com/kentcdodds/generator-kcd-oss#readme"
+  "homepage": "https://github.com/danseethaler/generator-danseethaler-oss#readme"
 }
